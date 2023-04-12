@@ -1,0 +1,21 @@
+'Enter a temperature between -50 and 50: '
+'That temperature is invalid.'
+'Calculating windchill.'
+'Enter a wind speed between 1 and 99 km/h: '
+'That wind speed is invalid.'
+'The windchill is X.' [X will be a number]
+'Low risk.'  [see sample execution for how to format these outputs on a line]
+'Moderate risk.'
+'High Risk. Skin can freeze in 10-30 minutes.'
+'Very High Risk. Skin can freeze in under 10 minutes.'
+'Calculating humidex.'
+'Enter the dewpoint between -50 and 50: '
+'That dew point is invalid.'
+'The humidex is X.' [X will be a number]
+'Little or no discomfort.'
+'Some discomfort.'
+'Great discomfort. Avoid exertion.'
+'Dangerous. Heat stroke possible.'
+'Windchill and humidex are not a factor at this temperature.'
+'Check another weather condition (Y/N)? '
+'That input is invalid.'  [Used for failed input for the previous prompt.]
